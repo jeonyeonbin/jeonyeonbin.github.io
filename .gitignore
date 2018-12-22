@@ -1,0 +1,8 @@
+## Jekyll stuff
+/_site/
+_site/
+.sass-cache/
+.jekyll
+node_modules/
+package.json
+
